@@ -171,3 +171,7 @@ h1{
     font-size: 3vw;
     color: var(--b4);
 }
+
+h2{
+    color: var(--b2);
+}
