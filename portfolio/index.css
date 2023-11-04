@@ -179,3 +179,7 @@ h2{
     width: 800px;
     height: 250px;
 }
+
+.inflex{
+    display: inline-block;
+}
