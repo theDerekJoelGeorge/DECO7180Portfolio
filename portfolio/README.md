@@ -10,4 +10,4 @@ This website has been developed using HTML, CSS and Javascript. The Landing scre
 Get in touch with me via e-mail : derekjoelgeorge@gmail.com
 
 ## References 
-I have made use of a tutorial provided by Ho Viet Hoang (Ho&agrave;ng, 2023) to implement the slideshow that is present on the website.
+I have made use of a tutorial provided by Ho Viet Hoang (Ho&agrave;ng, 2023) to implement the slideshow that is present on the website. (https://www.lundevweb.com/2023/04/image-slider-with-auto-play-manual.html )
