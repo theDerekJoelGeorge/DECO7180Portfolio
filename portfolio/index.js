@@ -1,4 +1,4 @@
-// Slideshow 1
+// Slideshow implemented using tutorial from Ho Viet Hoàng (2023, April 20). (Image slider - with auto-play & manual Navigation Buttons - using CSS, HTML & javascript. Lundev. https://www.lundevweb.com/2023/04/image-slider-with-auto-play-manual.html)
 let slider = document.querySelector('.slider .list');
 let items = document.querySelectorAll('.slider .list .item');
 let next = document.getElementById('next');

@@ -20,7 +20,7 @@ html,body{
     margin-left: 7vw;
 }
 
-/* Width of items in our grid row */
+/* Width of items in grid row */
 
 .col-1 { grid-column: span 1;}
 .col-2 { grid-column: span 2;}
@@ -140,31 +140,16 @@ html,body{
 
 li a{
     text-decoration: none;
-    color: var(--b4);
+    color: var(--b3);
     padding-left: 2%;
 }
 
-a:hover{
+li a:hover{
     color: var(--b1);
 }
 
 section{
     width: 100%;
-    /* height: 100vh; */
-    /* margin-top: 7vw; */
-}
-
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    /* margin: 0; */
-  }
-
-.centered-content {
-    text-align: center;
-    padding: 20px;
 }
 
 h1{
@@ -183,3 +168,62 @@ h2{
 .inflex{
     display: inline-block;
 }
+
+a{
+    text-decoration: none;
+    color: var(--b1);
+}
+
+a:hover{
+    color: var(--b2);
+    cursor: pointer;
+}
+
+footer{
+    background-color: var(--b4);
+    color: var(--offwhite);
+    text-align: center;
+    padding: 2vw;
+}
+
+.button{
+    background-color: var(--b4);
+    border-radius: 30px;
+    padding: 1vw;
+    color: var(--offwhite);
+    font-weight: 600;
+}
+
+.button:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.w400{
+    width: 400px;
+}
+
+.w500{
+    width: 500px;
+}
+
+.w800{
+    width: 800px;
+}
+
+.h300{
+    height: 300px;
+}
+
+.h325{
+    height: 325px;
+}
+
+.h400{
+    height: 400px;
+}
+
+.icons{
+    width: 150px;
+}
+
